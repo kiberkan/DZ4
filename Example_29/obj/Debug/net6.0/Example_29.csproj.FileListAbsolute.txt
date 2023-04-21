@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\bin\Debug\net6.0\Example_29.exe
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\bin\Debug\net6.0\Example_29.deps.json
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\bin\Debug\net6.0\Example_29.runtimeconfig.json
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\bin\Debug\net6.0\Example_29.dll
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\bin\Debug\net6.0\Example_29.pdb
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.AssemblyInfo.cs
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.dll
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\refint\Example_29.dll
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.pdb
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\Example_29.genruntimeconfig.cache
+C:\Users\kiber\Desktop\Учеба\DZ4\Example_29\obj\Debug\net6.0\ref\Example_29.dll
